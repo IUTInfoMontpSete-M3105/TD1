@@ -4,4 +4,4 @@
 * **Enseignants:** [Gaelle Hisler](mailto:gaelle.Hisler@umontpellier.fr), [Nadjib Lazaar](mailto:nadjib.lazaar@umontpellier.fr) (responsable), [Sophie Nabitz](mailto:sophie.nabitz@univ-avignon.fr), [Simon Robillard](mailto:simon.robillard@umontpellier.fr) 
 * [Fiche TD1](TD1.pdf).
 
-* Lien classroom :
+* Lien classroom : https://classroom.github.com/a/hzso_Cia
